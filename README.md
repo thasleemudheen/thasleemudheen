@@ -41,19 +41,17 @@ Hi there, I'm Thasleemudheen RK, and I'm excited to share my world of web and de
 
 ## About Me 
 - 💻 **Web Development:** Enthusiastic about building cutting-edge websites and applications, from sleek user interfaces to robust back-end systems.
-- 🎨 **UI/UX Design:** Focused on creating engaging and intuitive user experiences, combining creativity with technical skills to design beautiful and functional interfaces.
 - 🚀 **Continuous Learning:** Always exploring the latest trends and technologies in web development and design to stay ahead in the ever-evolving digital landscape.
-- 🎓 **BCA Graduate:** I hold a Bachelor of Computer Applications degree, which has provided me with a strong foundation in computer science and web development.
 - 🤝 **Open for Collaboration:** Looking forward to teaming up on exciting projects that challenge and inspire.
 
 
 ##  Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaj-kc-a7b118308) &nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@minhaj_kc) 
-&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:minhajvvo@gmail.com)
-&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammedminhaj.kc) 
-&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhaj.kc)
-&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/7034936080)
-&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://telegram.me/Minhajkc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thasleemudheen-rk) &nbsp;&nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thasleem) 
+&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:thasleemtrk@gmail.com)
+&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thasleem) 
+&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_thas_leem)
+&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/9846861102)
+&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://telegram.me/thasleemudheen)
 
 ## Languages
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,7 +86,7 @@ Hi there, I'm Thasleemudheen RK, and I'm excited to share my world of web and de
 <div align="center">
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minhajkc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thasleemudheen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 
