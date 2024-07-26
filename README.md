@@ -1,4 +1,40 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thasleemudheen+RK!;" />
+</h1>
 
+
+<br/>
+
+<hr/>
+
+
+ 
+<div align="center"> 
+  <a href="mailto:thasleemtrk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/thasleemudheen-rk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,node.js,express.js,mongoDB,React" /><br>
+</div>
+
+<br/>
+
+
+
+<div align="center">
+
+
+<br/>
 
 # Welcome to My Digital Space  
 Hi there, I'm Thasleemudheen RK, and I'm excited to share my world of web and design with you! Whether you're a potential collaborator, a fellow developer, or just curious about the digital realm, I'm glad you're here.
