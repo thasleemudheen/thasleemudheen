@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,node.js,express.js,mongoDB,React" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,node,express.js,mongoDB,React" /><br>
 </div>
 
 <br/>
@@ -86,7 +86,7 @@ Hi there, I'm Thasleemudheen RK, and I'm excited to share my world of web and de
 <div align="center">
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thasleemudheen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://.vercel.app/api/top-langs?username=thasleemudheen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 
